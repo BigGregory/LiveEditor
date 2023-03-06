@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "greg-online-editor",
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
