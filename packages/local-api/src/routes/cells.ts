@@ -43,6 +43,8 @@ export const createCellsRouter = (filename: string, dir: string) => {
   });
 
   router.post('/cells', async (req, res) => {
+    console.log(15);
+
     // Grab list of cells from the request object
     const { cells }: { cells: Cell[] } = req.body;
 

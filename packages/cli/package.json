@@ -1,7 +1,13 @@
 {
-  "name": "cli",
+  "name": "greg-online-editor",
   "version": "1.0.0",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "start": "tsc --watch --preserveWatchOutput"
   },
@@ -10,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^9.4.1",
-    "local-api": "^1.0.0"
+    "@greg-online-editor/local-api": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",

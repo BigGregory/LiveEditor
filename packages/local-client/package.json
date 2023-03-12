@@ -1,8 +1,13 @@
 {
-  "name": "local-client",
+  "name": "@greg-online-editor/local-client",
   "version": "0.1.0",
-  "private": true,
-  "dependencies": {
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "build"
+  ],
+  "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@monaco-editor/react": "^4.4.5",
     "@redux-devtools/extension": "^3.2.3",
