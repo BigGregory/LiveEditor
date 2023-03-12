@@ -1,16 +1,16 @@
 {
   "main.css": "/static/css/main.1e30029a.chunk.css",
-  "main.js": "/static/js/main.5f6f4857.chunk.js",
-  "main.js.map": "/static/js/main.5f6f4857.chunk.js.map",
+  "main.js": "/static/js/main.2b81e099.chunk.js",
+  "main.js.map": "/static/js/main.2b81e099.chunk.js.map",
   "static/css/1.3e36e46c.chunk.css": "/static/css/1.3e36e46c.chunk.css",
-  "static/js/1.9b5ac2e1.chunk.js": "/static/js/1.9b5ac2e1.chunk.js",
-  "static/js/1.9b5ac2e1.chunk.js.map": "/static/js/1.9b5ac2e1.chunk.js.map",
+  "static/js/1.cae31d11.chunk.js": "/static/js/1.cae31d11.chunk.js",
+  "static/js/1.cae31d11.chunk.js.map": "/static/js/1.cae31d11.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/all.min.css": "/static/media/fa-solid-900.664de393.svg",
-  "static/css/main.1e30029a.chunk.css.map": "/static/css/main.1e30029a.chunk.css.map",
+  "static/media/all.min.css": "/static/media/fa-brands-400.2f122423.svg",
   "static/css/1.3e36e46c.chunk.css.map": "/static/css/1.3e36e46c.chunk.css.map",
+  "static/css/main.1e30029a.chunk.css.map": "/static/css/main.1e30029a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.e7247f881ff9ac4982ec0ac651d7cf3c.js": "/precache-manifest.e7247f881ff9ac4982ec0ac651d7cf3c.js",
+  "precache-manifest.d538532c4615155aec5690d3c5a1ea10.js": "/precache-manifest.d538532c4615155aec5690d3c5a1ea10.js",
   "service-worker.js": "/service-worker.js"
 }
