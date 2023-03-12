@@ -1,6 +1,6 @@
 {
   "name": "greg-online-editor",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -20,10 +20,10 @@
     "@greg-online-editor/local-client": "^1.0.0"
   },
   "devDependencies": {
+    "@greg-online-editor/local-api": "^0.0.1",
     "@types/node": "^18.11.18",
+    "commander": "^9.4.1",
     "esbuild": "0.8.26",
-    "typescript": "^4.9.4",
-    "@greg-online-editor/local-api": "^1.0.0",
-    "commander": "^9.4.1"
+    "typescript": "^4.9.4"
   }
 }
