@@ -1,6 +1,6 @@
 {
   "name": "@greg-online-editor/local-api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@greg-online-editor/local-client": "^0.0.1",
+    "@greg-online-editor/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "http-proxy-middleware": "^2.0.6"
