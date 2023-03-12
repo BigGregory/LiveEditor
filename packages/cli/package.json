@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@greg-online-editor/local-client": "^1.0.0"
+    "@greg-online-editor/local-client": "^0.1.0"
   },
   "devDependencies": {
     "@greg-online-editor/local-api": "^1.0.0",
