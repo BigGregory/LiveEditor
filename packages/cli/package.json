@@ -1,6 +1,6 @@
 {
   "name": "greg-online-editor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@greg-online-editor/local-client": "^1.0.1"
+    "@greg-online-editor/local-client": "^1.0.2"
   },
   "devDependencies": {
-    "@greg-online-editor/local-api": "^1.0.1",
+    "@greg-online-editor/local-api": "^1.0.2",
     "@types/node": "^18.11.18",
     "commander": "^9.4.1",
     "esbuild": "0.8.26",
